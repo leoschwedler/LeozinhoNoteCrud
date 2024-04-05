@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LeozinhoNotesCrud</string>
+    <string name="get_started">Get Started</string>
+    <string name="daily_notes">Daily Notes</string>
+    <string name="description_get_started">Take notes, set reminders, and track your progress.\n Collect your thoughts and ideas in one place.</string>
+    <string name="type_a_note">Type a note...</string>
+    <string name="save">Save</string>
+</resources>

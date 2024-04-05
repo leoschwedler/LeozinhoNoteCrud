@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- cores customizadas -->
+    <color name="gray">#252B2F</color>
+    <color name="light_gray">#495D65</color>
+    <color name="background">#495D65</color>
+    <color name="light_red">#ab6f8a</color>
+</resources>
